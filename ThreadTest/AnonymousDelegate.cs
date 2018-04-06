@@ -2,7 +2,7 @@
 
 namespace ThreadTest
 {
-    public class AnDelegate
+    public class AnonymousDelegate
     {
         public event MyDelegate del;
 
